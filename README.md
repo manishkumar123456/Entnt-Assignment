@@ -1,3 +1,13 @@
+
+
+![Screenshot (71)](https://github.com/user-attachments/assets/0c32c94c-c3d4-41e9-8f20-5af5892307ec)
+
+![Screenshot (72)](https://github.com/user-attachments/assets/f186238c-e5c8-4909-b0ab-f5e79bec9e22)
+
+![Screenshot (69)](https://github.com/user-attachments/assets/449c61a2-92b0-4040-b10d-dd5fc5731faf)
+
+![Screenshot (70)](https://github.com/user-attachments/assets/25380386-4d80-49f3-a7f6-00c06533fb39)
+
 # React Calendar Application
 
 This project is a **React-based Calendar Application** designed to track and manage communication with companies. It features separate modules for **Admin** and **User**, along with a reporting module for generating insights. The application incorporates modern design principles and a responsive user interface.
@@ -325,12 +335,5 @@ entnt-frontend/
 Link to the live demo: [https://entnt-assignment-manish-kumar.netlify.app/](https://entnt-assignment-manish-kumar.netlify.app/)
 
 #### Desktop View
-(https://github.com/user-attachments/assets/9c9ae9ed-f11b-416d-be0c-ef7fcc2becd8)
-
-![Screenshot (72)](https://github.com/user-attachments/assets/16461594-2e58-4816-a9dd-dcc2bf380c29)
-
-![Screenshot (69)](https://github.com/user-attachments/assets/89bfb47d-3bdf-4d5a-8622-62d6ecae531c)
-
-![Screenshot (70)](https://github.com/user-attachments/assets/4d4fa815-17c4-4d16-a9ee-012e5b5e5539)
 
 
